@@ -10,7 +10,7 @@
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Run `flutter pub get` to install dependencies.
-4. Use `flutter run` to start the app.
+4. Use `flutter run` to start the app. 
 
 ## Usage
 1. Draw your picture.
