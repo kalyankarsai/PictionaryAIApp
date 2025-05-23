@@ -60921,7 +60921,7 @@ g.toString
 n=g
 g=A.ax(["guessedImage",new A.uC(B.FT,null,null,null,null)],t.N,t.Ze)
 f=A.aq4("https","generativelanguage.googleapis.com","v1beta",null)
-m=new A.Rm(A.alH("gemini-1.5-pro"),B.BX,new A.Rl("application/json",new A.uC(B.FU,null,null,g,null)),null,new A.S4("AIzaSyC8iN0TiwBnS61UD_pjg8Pd2FjxRo3zgPY",null),f,null,null)
+m=new A.Rm(A.alH("gemini-2.0-flash"),B.BX,new A.Rl("application/json",new A.uC(B.FU,null,null,g,null)),null,new A.S4("AIzaSyC8iN0TiwBnS61UD_pjg8Pd2FjxRo3zgPY",null),f,null,null)
 l=new A.j0("user",A.Y(A.a([new A.fT('      You are a pictionary player. Given the provided image, identify its contents \n      and reply in the form of a JSON payload response containing the following properties:\n      {\n        "guessedImage": the name of the image drawn \n      }\n      '),new A.zR("image/png",n)],t.Uz),!0,t.z2))
 f=m
 g=f.R5(A.a([l],t.kQ),null,null,null,null)

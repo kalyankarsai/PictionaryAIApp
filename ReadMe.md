@@ -4,7 +4,7 @@
 
 ## Features
 - Built using Flutter.
-- Pictionary validator powered by Gemini 1.5 Pro AI.
+- Pictionary validator powered by Gemini 2.0 Flash AI Model.
 
 ## Installation
 1. Clone the repository.
